@@ -1,3 +1,3 @@
 # flixApp 
 
-![](https://imgur.com/a/D2OGLE7.mp4)
+![](https://s9.gifyu.com/images/tanmay2image.md.gif)
