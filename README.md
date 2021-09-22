@@ -1,3 +1,3 @@
 # flixApp 
 
-<img src = "shorturl.at/dmBU7 width = 250><br>
+<img src = "https://im4.ezgif.com/tmp/ezgif-4-d014dfe00161.gif" width = 250><br>
