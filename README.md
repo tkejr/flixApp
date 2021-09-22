@@ -1,3 +1,3 @@
 # flixApp 
 
-![](https://imgur.com/a/D2OGLE7.gif)
+![](https://imgur.com/a/D2OGLE7)
