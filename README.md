@@ -1,3 +1,3 @@
 # flixApp 
 
-<img src = "https://s9.gifyu.com/images/tanmay2image.md.gif" width = 250><br>
+<img src = "https://im4.ezgif.com/tmp/ezgif-4-415120f996ef.gif" width = 250><br>
