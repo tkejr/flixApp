@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="https://www.partyfinder.us/ios/unit2/unit2s.gif" width=250><br>
-![Unit 2](https://www.partyfinder.us/ios/unit2/unitsa.gif)
+![Unit 2](https://www.partyfinder.us/ios/unit2/unit2s.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
